@@ -7,4 +7,4 @@ b. How to create custom dialog?
 Custom dialog can be created uding Dialog Fragment
 
 c. How to use existing dialogs?
-Existig Dialog can be used using AlertDialog.Builder.
+Existig Dialog can be used using AlertDialog.Builder and onCreateDialog
